@@ -246,7 +246,7 @@ ModelManifest.xml
 
 # MCD.Website (Angular 2 - TypeScript)
 .idea
-typings/**
+typings
 node_modules
 jspm_packages
 link-checker-results.txt
